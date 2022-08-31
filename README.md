@@ -13,3 +13,6 @@
 - **Azure Dashboard & Workbooks:** Create visualizations
 - **Azure Monitor Metrics:** Collect data from **monitored resources**
 - **Change Analysis:** Investigate change data for routine monitoring or for triaging incidents by using Change Analysis.
+
+
+![image](https://user-images.githubusercontent.com/92606493/187622799-4812057e-c119-47df-89d0-021f3216016d.png)
