@@ -14,5 +14,11 @@
 - **Azure Monitor Metrics:** Collect data from **monitored resources**
 - **Change Analysis:** Investigate change data for routine monitoring or for triaging incidents by using Change Analysis.
 
+## Overview
+- The following diagram gives a high-level view of Azure Monitor. 
+- At the center of the diagram are the data stores for **metrics and logs**, which are the two fundamental types of data used by Azure Monitor. 
+- On the left are the **sources of monitoring data** that populate these **data stores.** 
+- On the right are the different functions that Azure Monitor performs with this collected data. This includes such actions as **analysis, alerting, and streaming to external systems.**
+
 
 ![image](https://user-images.githubusercontent.com/92606493/187622799-4812057e-c119-47df-89d0-021f3216016d.png)
