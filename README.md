@@ -25,3 +25,17 @@
 
 
 **Insights:** Service-specific monitoring features built into Azure Monitor.
+
+### Metrics:
+- Short, time-based data
+- Frequently updated
+- Near real-time data
+- Alerts based on numeric values
+- Visualization via Metrics Explorer
+
+### Logs:
+- Long, event-based data
+- Sporadically updated
+- Free-form and/or structured
+- Stored in Log Analytics Workspace
+- Built-in query language (Kusto)
